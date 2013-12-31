@@ -1,5 +1,5 @@
 /*
-formatPhone.js
+Format Phone
 The MIT License (MIT)
 Copyright (c) 2013 Matthew Nolan
 www.redbutton.io
